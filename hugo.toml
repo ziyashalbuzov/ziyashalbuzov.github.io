@@ -1,0 +1,24 @@
+baseURL = 'https://ziyashalbuzov.github.io'
+languageCode = 'en-us'
+title = 'Ziya Shalbuzov'
+theme = "PaperMod"
+
+[params]
+    env = 'production'
+    author = 'Ziya'
+    
+[params.profileMode]
+    enabled = true
+    title = 'Ziya Shalbuzov'
+    subtitle = 'cybersecurity blog | red & blue team'
+    showSubtitleLines = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ziyashalbuzov"
+
+[[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts/"
+    weight = 10
