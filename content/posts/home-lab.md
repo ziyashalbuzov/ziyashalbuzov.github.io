@@ -1,6 +1,6 @@
 ---
 title: "How I built my Home Lab"
-date: '2026-03-20T15:30:00+04:00'
+date: '2026-03-19T10:00:00+04:00'
 draft: false
 ---
 
