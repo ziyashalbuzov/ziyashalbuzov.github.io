@@ -2,6 +2,7 @@ baseURL = 'https://ziyashalbuzov.github.io'
 languageCode = 'en-us'
 title = 'Ziya Shalbuzov'
 theme = "PaperMod"
+buildFuture = true
 
 [params]
     env = 'production'
